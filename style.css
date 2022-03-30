@@ -1,0 +1,69 @@
+
+        ol{color: blue;
+            background-color: orange;
+            text-align: center;
+            list-style-position: inside;
+            font-size: 18px;
+        }
+        ul{
+            text-align: center;
+            list-style-position: inside;
+            font-size: 18px;
+        }
+        #games{
+            color: orange;
+            background-color: blue;
+            font-family: fantasy;
+ 
+        }
+        .link{
+            background-color: red;
+        }
+        #bands{
+            background-color: black;
+            color: red;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        .bands{
+            background-color: red;
+        }
+        body{
+            text-align: center;
+        }
+        
+        .gamestop{
+            color: red;
+            background-color: black;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+
+        .five{
+            color: white;
+            background-color: blue;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+        }
+
+        .remke{
+            color: gold;
+            background-color: red;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+
+        .oakhills{
+            background-color: black;
+            color: red;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+
+        .cs{
+            color: blue;
+            background-color: green;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+
+        .kable{
+            background-color: blue;
+            color: orange;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
