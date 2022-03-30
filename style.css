@@ -10,7 +10,7 @@
             list-style-position: inside;
             font-size: 18px;
         }
-        #games{
+        .games{
             color: orange;
             background-color: blue;
             font-family: fantasy;
@@ -19,14 +19,12 @@
         .link{
             background-color: red;
         }
-        #bands{
+        .bands{
             background-color: black;
             color: red;
             font-family: 'Times New Roman', Times, serif;
         }
-        .bands{
-            background-color: red;
-        }
+        
         body{
             text-align: center;
         }
