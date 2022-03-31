@@ -70,3 +70,7 @@
             color: orange;
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         }
+        .links{
+            font-family: teko, monospace ;
+            background-color: gold;
+        }
