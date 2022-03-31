@@ -22,7 +22,7 @@
         .bands{
             background-color: black;
             color: red;
-            font-family: 'Times New Roman', Times, serif;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         }
         
         body{
@@ -33,6 +33,11 @@
             color: red;
             background-color: black;
             font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+
+        #gs{
+            border-color: black;
+            border-radius: 10px 10px 10px 10px;
         }
 
         .five{
