@@ -74,17 +74,51 @@
             font-family: "Teko", monospace ;
             background-color: gold;
         }
-        @media screen and (max-width: 500px)
-        {.games{
-            color: black ;
-            background-color: white;
+        @media screen and (max-width: 500px) {
+            
+        h1{
+            color:white;
+            background-color: transparent;
         }
         .bands{
-            color: black;
-            background-color: white;
+            color:white;
+            background-color: transparent;
         }
         .links{
-            color: black;
-            background-color: white;
+            color:white;
+            background-color: transparent;
         } 
+        .games{        
+            color:white;
+           background-color: transparent;
+           font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         }
+        .kable{
+            background-color: transparent;
+            color:white;
+        }
+        .oakhills{
+            background-color: transparent;
+            color:white;
+        }
+        .cs{
+            background-color: transparent;
+            color:white;
+        }
+        .gamestop{
+            background-color: transparent;
+            color:white;
+        }
+        .remke{
+            background-color: transparent;
+            color: black;
+        }
+        .five{
+            background-color: transparent;
+            color:white;
+        }
+        html{
+            background: url(img/ales-krivec-OY46PtnSfYQ-unsplash.jpg);
+            color: white;
+                }
+    }
