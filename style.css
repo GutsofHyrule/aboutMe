@@ -71,6 +71,20 @@
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         }
         .links{
-            font-family: teko, monospace ;
+            font-family: "Teko", monospace ;
             background-color: gold;
+        }
+        @media screen and (max-width: 500px)
+        {.games{
+            color: black ;
+            background-color: white;
+        }
+        .bands{
+            color: black;
+            background-color: white;
+        }
+        .links{
+            color: black;
+            background-color: white;
+        } 
         }
